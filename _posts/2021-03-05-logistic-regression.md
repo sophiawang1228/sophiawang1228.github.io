@@ -1,6 +1,5 @@
 ---
 title: "Logistic Regression"
-date: 2021-03-05T15:34:30-04:00
 categories:
   - blog
 tags:
