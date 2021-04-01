@@ -81,6 +81,7 @@ defaults:
       type: posts
     values:
       layout: single
+      show_date: true
       author_profile: true
       read_time: true
       comments: true
@@ -100,3 +101,5 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
+
+github: [metadata] 
