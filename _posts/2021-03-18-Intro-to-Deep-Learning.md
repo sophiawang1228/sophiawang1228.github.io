@@ -13,5 +13,3 @@ tags:
  The original file is available for download [here][1]
 
  [1]:{{sophiawang1228.github.io}}/download/Handwritten-Digits-Classification.html
-
-{% include Handwritten-Digits-Classification.html%}
