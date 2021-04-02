@@ -1,11 +1,6 @@
 ---
 title: "Logistic Regression"
-categories:
-  - blog
-tags:
-  - data analysis
-  - logistic regression
-  - demo
+date: 2021-03-15
 ---
 
 

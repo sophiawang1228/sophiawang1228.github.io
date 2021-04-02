@@ -1,11 +1,6 @@
 ---
 title: "Data Visualization"
-date: 2021-03-02T15:34:30-04:00
-categories:
-  - blog
-tags:
-  - data visualization
-  - demo
+date: 2021-03-02
 ---
 
 

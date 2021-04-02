@@ -1,11 +1,6 @@
 ---
-title: "Intro to Deep Learning: KNN/NN/CNN"
-categories:
-  - blog
-tags:
-  - data analysis
-  - logistic regression
-  - demo
+title: "Deep Learning: KNN/NN/CNN"
+date: 2021-03-24
 ---
 
 
