@@ -4,6 +4,7 @@ categories:
   - blog
 tags:
   - MySql
+toc: true
 ---
 
 ## Pre-requisites

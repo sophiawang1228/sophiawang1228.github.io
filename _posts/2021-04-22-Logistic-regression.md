@@ -11,13 +11,21 @@ tags:
   src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-MML-AM_CHTML">
 </script>
 
-We have seen in the previous post that linear regression outputs the actual predicted value for any new data points. However, in some cases when we encounter a classification problem, we want our function to give us a probability instead, probability of the given dataset fall in to specific category (y=1 in most case).
+We have seen in the previous post that linear regression outputs the actual 
+predicted value for any new data points. However, in some cases when we 
+encounter a classification problem, we want our function to give us a 
+probability instead, probability of the given dataset fall in to specific 
+category (y=1 in most case).
 
 ### Logistic Regression 
 
-Instead of predicting on the actual values, suppose we only want the answer as `Yes` or `No`, we are now dealing with a model that will give us a binary output that's either 1 or 0. Generally, we called the y=1 case being the positive class and y=0 being negative class.
+Instead of predicting on the actual values, suppose we only want the answer
+ as `Yes` or `No`, we are now dealing with a model that will give us a binary 
+ output that's either 1 or 0. Generally, we called the y=1 case being the 
+ positive class and y=0 being negative class.
 
-Therefore, to optimize this new model, we would want a new hypothesis function that will give us an answer between 0  and 1.
+Therefore, to optimize this new model, we would want a new hypothesis 
+function that will give us an answer between 0  and 1.
 
 
 #### Sigmoid function
@@ -77,8 +85,10 @@ Basically, we will be choosing one class and predicting it against rest of the c
 
 - underfitting: high bias, did not fit well with train data
 - overfitting: high variance, did not predict well with test data
-	- reduce features: manually select/ model selection
+	- get more data
+	- penalize complexity: reduce features: manually select/ model selection
 	- regularization: reduce maginitude of features(works well with lots of slightly useful features)
+	- use a hold-out set as a stand-in for unseen test set.
 
 #### Regularization:
 

@@ -5,6 +5,7 @@ categories:
   - blog
 tags:
   - Machine Learning
+toc: true
 ---
 
 <script type="text/javascript" async

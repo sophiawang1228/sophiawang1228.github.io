@@ -4,6 +4,7 @@ categories:
   - blog
 tags:
   - Hadoop
+toc: true
 ---
 
 

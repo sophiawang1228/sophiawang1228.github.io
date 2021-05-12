@@ -5,6 +5,7 @@ categories:
 tags:
   - Shell
   - Zsh
+toc: true
 ---
 
 Generally speaking, Zsh is a more powerful shell than Bash. 

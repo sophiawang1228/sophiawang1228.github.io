@@ -5,6 +5,7 @@ categories:
 tags:
   - Hadoop
   - Hive
+toc: true
 ---
 
 ## Pre-requisites

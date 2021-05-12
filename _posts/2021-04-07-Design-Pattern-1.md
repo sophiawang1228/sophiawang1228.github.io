@@ -4,6 +4,7 @@ categories:
   - blog
 tags:
   - Interview
+toc: true
 ---
 https://www.runoob.com/design-pattern/filter-pattern.html
 
